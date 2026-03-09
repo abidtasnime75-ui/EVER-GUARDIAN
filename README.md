@@ -40,7 +40,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 │      WEARABLE DEVICE        │        │       CLOUD + MOBILE         │
 │                             │        │                              │
 │  SENSORS                    │        │  ☁️  Firebase RTDB           │
-│  ├── MAX30102  (HR / SpO₂)  │        │  ☁️  MQTT Broker             │
+│  ├── MAX30102  (HR / SpO/ glucose)  │        │  ☁️  MQTT Broker             │
 │  ├── MPU6050  (Fall IMU)    │──────▶ │  ☁️  FCM Notifications       │
 │  ├── MAX30205 (Temperature) │        │                              │
 │  ├── NEO-6M   (GPS)         │        │  📱 GUARDIAN APP             │
