@@ -22,7 +22,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 | 🤸 **Fall Detection**      | 3-phase kinematic algorithm (impact → orientation → stillness) |
 | 💓 **Heart Rate & SpO₂**   | Continuous PPG monitoring via MAX30102                         |
 | 🌡️ **Skin Temperature**    | Contact-based measurement via MAX30205                         |
-      glucose estimation      |Continuous PPG monitoring via MAX30102
+|  **glucose estimation *    | Contact-based measurement via MAX30205                         |
 | 📍 **GPS Tracking**        | Real-time location with geofencing (500m safe zone)            |
 | 😴 **Sleep Tracking**      | Overnight HR and SpO₂ monitoring                               |
 | 🆘 **safety button **      | One long press → false alert                                   |
