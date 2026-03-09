@@ -106,9 +106,9 @@ Phase 6 ░░░░░░░░░░  TODO     3D Enclosure & Assembly
 Phase 7 ░░░░░░░░░░  TODO     Testing & Validation
 Phase 8 ░░░░░░░░░░  TODO     Final Documentation & Presentation
 
-> *IEEE RAS FST Student Branch — DIY IT Program — March 2026*
 
----
+
+
 
 ## 📄 License
 
