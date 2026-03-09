@@ -6,7 +6,7 @@
 
 ## 📖 About The Project
 
-**EVER GUARDIAN** is a wearable IoT device designed for elderly individuals (65+). It continuously monitors health and safety, and automatically sends alerts to a guardian's smartphone in case of a fall, physiological anomaly, or emergency.
+**EVER GUARDIAN** is a wearable IoT device designed for elderly individuals . It continuously monitors health and safety, and automatically sends alerts to a guardian's smartphone in case of a fall, physiological anomaly, or emergency.
 
 The device is worn on the wrist like a smartwatch, and communicates with a mobile app via Wi-Fi and GSM cellular network — ensuring coverage both at home and outdoors.
 
