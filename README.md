@@ -1,5 +1,5 @@
 # EVER-GUARDIAN
-             Wearable Elderly Monitoring &amp; Fall Detection System — IEEE RAS FST
+             Wearable Elderly Monitoring device; Fall Detection System — IEEE RAS FST
 
 
 # 🛡️ EVER GUARDIAN
