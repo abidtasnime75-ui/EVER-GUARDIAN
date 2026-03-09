@@ -2,7 +2,7 @@
              Wearable Elderly Monitoring device; Fall Detection System — IEEE RAS FST
 
 
-# 🛡️ EVER GUARDIAN
+🛡️ EVER GUARDIAN
 
 ## 📖 About The Project
 
@@ -15,7 +15,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 
 ---
 
-## ✨ Features
+ ✨ Features
 
 | Feature                    | Description                                                    |
 |----------------------------|----------------------------------------------------------------|
@@ -33,7 +33,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 
 ---
 
-## 🏗️ System Architecture
+ 🏗️ System Architecture
 
 ```
 ┌─────────────────────────────┐        ┌──────────────────────────────┐
@@ -60,8 +60,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 ```
 
 ---
-
-## 🔧 Hardware Components
+ 🔧 Hardware Components
 
 | Component        | Role                                       | Interface |
 |------------------|--------------------------------------------|-----------|
@@ -80,7 +79,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 
 ---
 
-## ⚠️ Alert Thresholds
+ ⚠️ Alert Thresholds
 
 | Parameter | Normal Range | Alert Threshold | Level |
 |-----------|-------------|-----------------|-------|
@@ -94,7 +93,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 
 ---
 
-## 🚀 Development Phases
+ 🚀 Development Phases
 
 ```
 Phase 1 ██████████  DONE     Research & System Architecture
@@ -110,7 +109,7 @@ Phase 8 ░░░░░░░░░░  TODO     Final Documentation & Presentat
 
 
 
-## 📄 License
+ 📄 License
 
 This project is licensed under the MIT License.
 
