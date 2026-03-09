@@ -11,7 +11,7 @@
 The device is worn on the wrist like a smartwatch, and communicates with a mobile app via Wi-Fi and GSM cellular network — ensuring coverage both at home and outdoors.
 
 > Developed under the **IEEE Robotics & Automation Society — FST Student Branch**
-> DIY IT Internal Development Program — Project 3
+> DIY IT Internal Development Program 
 
 ---
 
@@ -22,9 +22,10 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 | 🤸 **Fall Detection**      | 3-phase kinematic algorithm (impact → orientation → stillness) |
 | 💓 **Heart Rate & SpO₂**   | Continuous PPG monitoring via MAX30102                         |
 | 🌡️ **Skin Temperature**    | Contact-based measurement via MAX30205                         |
+      glucose estimation      |Continuous PPG monitoring via MAX30102
 | 📍 **GPS Tracking**        | Real-time location with geofencing (500m safe zone)            |
 | 😴 **Sleep Tracking**      | Overnight HR and SpO₂ monitoring                               |
-| 🆘 **Emergency Button**    | One long press → immediate critical alert                      |
+| 🆘 **safety button **      | One long press → false alert                                   |
 | 💊 **Medication Reminder** | Scheduled caregiver notifications                              |
 | 📱 **Guardian App**        | Flutter mobile app — alerts, map, vitals dashboard             |
 | 📡 **Dual Communication**  | Wi-Fi (primary) + GSM/GPRS (fallback)                          |
@@ -75,7 +76,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 | MT3608           | 4.0V boost converter (SIM800L)             | __________|
 | DW01A            | Battery protection BMS                     | __________|
 
-**Estimated Cost: 167 – 206 TND** *(sourced locally in Tunisia)*
+
 
 ---
 
@@ -88,7 +89,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 | Skin Temperature | 31 – 34°C (elderly) | < 34°C or > 38.5°C | 🔴 Critical |
 | Fall Detection | No fall | 3-phase confirmed | 🔴 Critical |
 | GPS Geofence | Inside safe zone | > 500m from home | 🟡 Warning |
-| Safety Button | Not pressed | Long press > 3s | 🔴 Critical |
+| Safety Button | Not pressed | Long press > 3s if false alarm  | 🔴 Critical |
 | Battery | > 15% | < 15% | 🔵 Maintenance |
 
 ---
@@ -113,7 +114,7 @@ Phase 8 ░░░░░░░░░░  TODO     Final Documentation & Presentat
 
 This project is licensed under the MIT License.
 
----
+
 
 
  Built with ❤️ for elderly safety — IEEE RAS FST Student Branch
