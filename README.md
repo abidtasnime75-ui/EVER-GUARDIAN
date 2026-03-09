@@ -79,18 +79,6 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 
 ---
 
- ⚠️ Alert Thresholds
-
-| Parameter | Normal Range | Alert Threshold | Level |
-|-----------|-------------|-----------------|-------|
-| Heart Rate | 60 – 100 bpm | < 55 or > 120 bpm | 🔴 Critical |
-| SpO₂ | ≥ 94% (elderly) | < 92% | 🟡 Warning |
-| Skin Temperature | 31 – 34°C (elderly) | < 34°C or > 38.5°C | 🔴 Critical |
-| Fall Detection | No fall | 3-phase confirmed | 🔴 Critical |
-| GPS Geofence | Inside safe zone | > 500m from home | 🟡 Warning |
-| Safety Button | Not pressed | Long press > 3s if false alarm  | 🔴 Critical |
-| Battery | > 15% | < 15% | 🔵 Maintenance |
-
 ---
 
  🚀 Development Phases
