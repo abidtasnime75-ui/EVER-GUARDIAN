@@ -13,7 +13,6 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 > Developed under the **IEEE Robotics & Automation Society — FST Student Branch**
 > DIY IT Internal Development Program 
 
----
 
  ✨ Features
 
@@ -56,7 +55,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 │  🔋 LiPo 1500mAh            │
 └─────────────────────────────┘
 
-        I²C / UART                GPRS · MQTT · HTTPS · FCM
+        I2C                GPRS · HTTPS · FCM
 ```
 
 ---
