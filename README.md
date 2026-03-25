@@ -39,7 +39,7 @@ The device is worn on the wrist like a smartwatch, and communicates with a mobil
 │      WEARABLE DEVICE        │        │       CLOUD + MOBILE         │
 │                             │        │                              │
 │  SENSORS                    │        │  ☁️  Firebase RTDB           │
-│  ├── MAX30102  (HR / SpO/ glucose)  │        │  ☁️  MQTT Broker             │
+│  ├── MAX30102  (HR / SpO/ glucose)  │                
 │  ├── MPU6050  (Fall IMU)    │──────▶ │  ☁️  FCM Notifications       │
 │  ├── MAX30205 (Temperature) │        │                              │
 │  ├── NEO-6M   (GPS)         │        │  📱 GUARDIAN APP             │
@@ -87,7 +87,7 @@ Phase 1 ██████████  DONE     Research & System Architecture
 Phase 2 ░░░░░░░░░░  NEXT     Hardware Prototyping
 Phase 3 ░░░░░░░░░░  TODO     Firmware Development (ESP32 FreeRTOS)
 Phase 4 ░░░░░░░░░░  TODO     Cloud & Guardian Mobile App
-Phase 5 ░░░░░░░░░░  TODO     PCB Design (KiCad)
+Phase 5 ░░░░░░░░░░  TODO     PCB Design 
 Phase 6 ░░░░░░░░░░  TODO     3D Enclosure & Assembly
 Phase 7 ░░░░░░░░░░  TODO     Testing & Validation
 Phase 8 ░░░░░░░░░░  TODO     Final Documentation & Presentation
